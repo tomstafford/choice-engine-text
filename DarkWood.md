@@ -8,5 +8,8 @@ And yet our subjective feeling of freedom opposes this causal universe. Our expe
 
 But still we feel a contradiction between our belief in a causal universe and our experience of ourselves as making choices, choices which appear as interventions in the causal flow of the universe, choices which we feel to be meaningful can't themselves be pre-determined.
 
-Things happen for a reason, but sure we are not mere things!
+Things happen for a reason, but surely we are not mere things!
 
+You stumble upon a map
+
+To continue, tweet @ChoiceEngine TAKE MAP
