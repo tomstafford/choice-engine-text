@@ -1,6 +1,6 @@
 ## In a dark wood
 
-This is the dilemma. We believe in order. Things happen for a reason. The universe, of which we are part, obeys causal laws. This determinism promises us an ordered, and a comprehensible one, a world that follows natural laws without requiring explanations based on magic or deities.
+This is the dilemma. We believe in order. Things happen for a reason. The universe, of which we are part, obeys causal laws. This determinism promises us an ordered world, and a comprehensible one. A world that follows natural laws without requiring explanations based on magic or deities.
 
 And yet our subjective feeling of freedom opposes this causal universe. Our experience of ourselves is as uncaused causers. We have the unavoidable experience of choosing. Out from the centre of ourselves a choice arises, uncompelled by history. Each choice is made by us, and so it could have been made otherwise. Not only can we not avoid choosing, but we are compelled to believe that this choosing matters.
 
