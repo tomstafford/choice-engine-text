@@ -12,8 +12,13 @@ It will capture a grasshopper, paralysing it, then drag it to the edge of its bu
 
 This argues Dennett, is what people have in mind when they imagine a deterministic universe. They imagine themselves prey to the same traps, the same blunt causal forces, as the digger wasp.
 
+The reason not to fear sphexishness is complexity. The sphex is a misleading example of a living thing with a very simple behavioural pattern. It is not typical of living things. Further, it isn't even typical of many systems which we know to be completely deterministic, yet can yield unpredictable, and endlessly varied, forms.
 
+To illustrate what I'm getting at here, I'm going to tell you about a simple, completely deterministic system that convinced me, viscerally that being a deterministic system didn't mean being reduced to a simplistic or predictable creature.
 
+Tell me about cellular automata [RULE30](https://twitter.com/intent/tweet?text=@ChoiceEngine%20RULE%2030)
+
+Skip that, tell me what it means [CHAOS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CHAOS)
 
 
 <a name="footnote1">1</a>: A behaviour, incidentally, which may have played a role in Darwin's loss of faith "I cannot persuade myself that a beneficent & omnipotent God would have designedly created the Ichneumonidae with the express intention of their feeding within ... living bodies": [link](http://www.asa3.org/ASA/PSCF/2001/PSCF9-01Miles.html)
