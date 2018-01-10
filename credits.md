@@ -2,7 +2,7 @@
 
 Words - Tom Stafford.
 
-Code - James Jeffries
+Code - James Jefferies
 
 Design - ?
 
