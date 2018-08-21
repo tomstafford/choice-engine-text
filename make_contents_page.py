@@ -10,7 +10,7 @@ def make_link(filename):
     if filename!='README.md':
         return '['+filename.split('.')[0]+']('+filename.split('.')[0]+')'
     else:
-        return '[README]()'
+        return '[README](/)'
 
 def pad(item):
     return '\n'+item+'\n'
