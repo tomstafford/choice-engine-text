@@ -1,5 +1,5 @@
 
-[README](/)
+[README](/choice-engine-text/)
 
 [chaos](chaos)
 
