@@ -12,6 +12,6 @@ To hear about how psychologists have over-hyped evidence of our irrationality, t
 
 To learn about the evidence that reasoned argument is a powerful factor in changing minds, tweet @ChoiceEngine [TRUTH](https://twitter.com/intent/tweet?text=@ChoiceEngine%20TRUTH)
 
-
+&#9744; &#9744;
 
 <a name="footnote1">1</a>: I wrote an e-book about this topic called '[For argument's sake: evidence that reason can change minds](https://www.amazon.co.uk/arguments-sake-evidence-reason-change-ebook/dp/B010O1Z018)'

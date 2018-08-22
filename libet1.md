@@ -10,7 +10,7 @@ If your feeling of deciding comes after the brain activity involved in deciding,
 
 Why this doesn't mean that your brain makes your choices for you [LIBET-Y](https://twitter.com/intent/tweet?text=@ChoiceEngine%20LIBET-Y)
 
-
+&#9744; &#9744;
 
 <a name="footnote1">1</a>: I am following his book "Mind time: The temporal factor in consciousness" here for details. More details here: http://brain.oxfordjournals.org/content/106/3/623.short 
 

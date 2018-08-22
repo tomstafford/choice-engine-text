@@ -10,6 +10,7 @@ Tell me more about philosophy [MOAR PHILOSOPHY](https://twitter.com/intent/tweet
 
 Doesn't neuroscience contradict freewill? [LIBET](https://twitter.com/intent/tweet?text=@ChoiceEngine%20LIBET)
 
+&#9744; &#9744;
 
 <a name="footnote1">1</a>: compare with all the various quantom computation neuroscientific theories of freewill, which are all rather desperate and irrelevant in my opinion.
 
