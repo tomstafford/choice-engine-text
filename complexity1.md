@@ -1,3 +1,5 @@
+# Complexity
+
 Imagine, a row squares, like the top row of a chess board. Each square, which I'll call cells, has one of two possible states. You can think of these as "on" and "off", or 0 and 1 if you prefer, but I'm going to refer to them as "black" and "white". In this strip, each cell changes according to a simple rule which takes account of only three things - that cell's current state (black or white) and the current state of the cells either side.
 
 We have now [defined a universe](http://en.wikipedia.org/wiki/Cellular_automaton) over which we have complete knowledge and control of the state of everything in it (simple really, each cell is either black or white) and also the 'laws of physics' which detemine change between states.

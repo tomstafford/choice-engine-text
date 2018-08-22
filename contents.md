@@ -3,6 +3,8 @@
 
 [chaos](chaos)
 
+[close](close)
+
 [complexity1](complexity1)
 
 [contents](contents)
@@ -15,10 +17,18 @@
 
 [have-map](have-map)
 
+[hyped](hyped)
+
 [libet1](libet1)
+
+[libet2](libet2)
 
 [philosophers](philosophers)
 
+[reasons1](reasons1)
+
 [sphexishness](sphexishness)
+
+[truth](truth)
 
 [useless](useless)

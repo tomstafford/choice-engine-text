@@ -1,4 +1,4 @@
-## Philosophers
+# Philosophers
 
 You can categorise philosophers of freewill into 'compatibalists' and 'incompatibalists', based on whether they think a deterministic universe is compatible, or not, with a meaningful notion of freewill. 
 

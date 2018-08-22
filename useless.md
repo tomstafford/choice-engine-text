@@ -1,4 +1,4 @@
-## The uselessness of philosophy
+# The uselessness of philosophy
 
 I'm not going to solve this one today. You can check the journal archives or the publishers catalogues, people have been arguing about this for millenia and there's no sign that the debate is going to let up. 
 
