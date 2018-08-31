@@ -1,3 +1,5 @@
+<title>Choice Engine: Contents</title>
+
 
 [README](/choice-engine-text/)
 

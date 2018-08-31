@@ -12,6 +12,7 @@ def make_link(filename):
     else:
         return '[README](/choice-engine-text/)'
 
+
 def pad(item):
     return '\n'+item+'\n'
 
@@ -20,7 +21,7 @@ filenames=sorted(glob.glob('*.md'))
 
 
 with open('contents.md', 'w') as outfile:
-
+    outfile.write('<title>Choice Engine: Contents</title>\n\n')
     for filename in filenames:
         outfile.write(pad(make_link(filename)))
         
