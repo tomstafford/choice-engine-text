@@ -1,4 +1,4 @@
-<title>Choice Engine: Contents</title>
+#Choice Engine: Contents
 
 
 [README](/choice-engine-text/)

@@ -1,11 +1,3 @@
----
-title: Choice Engine: Sphexishness
----
-
-<title>
-  {{ page.title }}
-</title>
-
 # Sphexishness
 
 Dennett, in his book Elbow Room, describes a particular emotional reaction to determinism, which he calls fear of 'Sphexishness'. This is after the digger wasp (*Sphex ichneumoneus*). The digger wasp is a solitary wasp, which lives in a burrow, rather than communally in a hive. The digger wasp follows a particular behavioural pattern before it lays its young, which you can see here:
