@@ -1,5 +1,5 @@
 <title>
-  {{ Choice Engine: Chaos }}
+  Choice Engine: Chaos
 </title>
 
 # Chaos
