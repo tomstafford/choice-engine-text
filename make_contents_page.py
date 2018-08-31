@@ -21,7 +21,7 @@ filenames=sorted(glob.glob('*.md'))
 
 
 with open('contents.md', 'w') as outfile:
-    outfile.write('#Choice Engine: Contents\n\n')
+    outfile.write('# Contents\n\n')
     for filename in filenames:
         outfile.write(pad(make_link(filename)))
         
