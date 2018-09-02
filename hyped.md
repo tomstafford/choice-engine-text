@@ -1,8 +1,35 @@
 # Our irrationality is over-hyped
 
-???
+There's a market for our irrationality. Money is made by psychologists and promoters of psychology by trumpeting our cognitive foibles. Go to the book shop and you can buy "[You are not so smart](https://youarenotsosmart.com/author/davidmcraney/)" by David McRaney, or read Cordelia Fine on "[How our brain distorts and deceives](https://www.goodreads.com/book/show/357666.A_Mind_of_Its_Own)", or Dan Ariely who will tell you that we are "[Predictably Irrational](https://en.wikipedia.org/wiki/Predictably_Irrational). And dozens of others. These are just examples, and the authors are smart, honest, people, but it isn't a coincidence that so many books on the mind choose to protray it as if it is untrustworthy or insane.
 
+We could have fun speculating why this is - do we want to be told we're not rational, so as to avoid responsibility? Or is there some more sinister force which benefits if we believe this? Or is it just a convenient story which is more interesting than "the mind does a good job most of the time"? Whatever the reasons, there is a pervasive bias to intepret psychology research as showing our irrationality when often it shows precisely the reverse.
+
+Here's a simple example from a recent paper published in the Quartley Journal of Experimental Psychology (yes, I am a subscriber).
+
+Aiden Gregg and colleagues published '[The SPOT effect: People spontaneously prefer their own theories](https://www.tandfonline.com/doi/full/10.1080/17470218.2015.1099162) in 2017. They were interested in how people respond to evidence. To do this they told participants about an alien world, and evidence gathered from this imaginary world about two species on it. After presenting each piece of evidence they asked people to rate how likely a theory about how these species interacted was to be true. Their experiments involved manipulating if the theory they rated was described as "your theory" or if it was ascribed to a researcher called Alex.
+
+Even though participants didn't come up with the theory they were rating, and telling them they were rating their own theory has a clear effect. Compared to people who rated a theory described as someone else's (or nobody's), people who rated a theory which was described as their own said it was more likely to be true, even when the evidence came along suggesting it probably wasn't true.
+
+So far, so unsurprising to anyone who has heard of confirmation bias<sup>[1](#footnote1)</sup>. But I'm telling you about this because this research on bias, which truly does provide evidence of bias in how we evaluate evidence, also shows how reasonable and rational typical people are. 
+
+Look at this graph of the results from the experiment:
+
+![](assets/spot_graph.jpg)
+
+This is a great example of the figure-ground effect in the literature on bias-rationality. Yes, the confirmation bias effect is real but look at the size of the bias (black vs white line) compared to influence of evidence (x-axis)
+
+Time points 5, 6 and 7 are after people are given theory disconfirmatory evidence. The expts show people respond *massively* to new evidence.
+
+The research shows that people are both biased *and* evidence sensitive, but only one of those conclusions is worth mentioning in psychology.
+
+As a wider trend, this is profoundly corrosive to how we think about ourselves.
 
 &#9744; &#9744;
 
 To learn about the evidence that reasoned argument is a powerful factor in changing minds, tweet @ChoiceEngine [TRUTH](https://twitter.com/intent/tweet?text=@ChoiceEngine%20TRUTH)
+
+&#9744; &#9744;
+
+<a name="footnote1">1</a>: And once you learn about confirmation bias you start to see it everywhere.
+
+<a name="footnote2">2</a>: This is experiment 3, figure 3 in orignial paper, but all three experiments gave similar results.
