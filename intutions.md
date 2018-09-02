@@ -14,13 +14,13 @@ Part of this is how deeply felt is our natural born dualism<sup>[1](#footnote1)<
 
 I think if you tried to make a diagram of how people naturally thought about the mind and brain it would be something like this:
 
-![](squares.png)
+![](assets/squares.png)
 
 Our mind existing above and seperate from our brains, and maybe our true inner selves existing above and seperate from our minds. If you think like this it doesn't sit right to think that your mind is your brain. Perhaps you even react in disgust when you find out that physical facts about your brain affect you and your mind at all.
 
 A better image is this one:
 
-![](cube.png)
+![](assets/cube.png)
 
 Mind and Brain are different sides of the same thing, just like a bicycle has wheels but it can also have a speed and direction. These are properties and functions, both intimately related to each other, existing intertwined but different kinds fo things<sup>[2](#footnote2)</sup>.
 

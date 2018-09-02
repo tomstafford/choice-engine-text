@@ -1,6 +1,6 @@
 # Determinism
 
-![ ](determinism.png  "Calvin but no Hobbes by Luke Surl")
+![ ](assets/determinism.png  "Calvin but no Hobbes by Luke Surl")
 
 "[Calvinism but no Hobbes](http://www.lukesurl.com/archives/comic/280-calvinism-but-no-hobbes)" by Luke Surl
 
