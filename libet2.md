@@ -51,7 +51,7 @@ If you'd like to hear some closing words, tweet @ChoiceEngine [CLOSE](https://tw
 
 <a name="footnote1">1</a>: Daniel Wegner expanded this argument with a range of evidence in his (great) book "[The Illusion of Conscious Will](https://mitpress.mit.edu/books/illusion-conscious-will)"
 
-<a name="footnote2">2</a>: Parts of this text taken from a blog post I wrote about criticisms of Libet's experiment: [Critical strategies for free will experiments](https://mindhacks.com/2015/08/07/critical-strategies-for-free-will-experiments/)
+<a name="footnote2">2</a>: Parts of this text taken from a blog post I wrote about criticisms of Libet's experiment: [Critical strategies for free will experiments](https://mindhacks.com/2015/08/07/critical-strategies-for-free-will-experiments/). For a recent review of Libet's experiment and research it has inspired see [Volition and the Brain – Revisiting a Classic Experimental Study](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(18)30112-7)
 
 <a name="footnote3">3</a>: I wrote more about how Libet's experiment plays on our intuitions about the mind in this [BBC Future column](http://www.bbc.com/future/story/20150806-why-your-intuitions-about-the-brain-are-wrong)
 
