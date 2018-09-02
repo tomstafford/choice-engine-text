@@ -12,6 +12,8 @@ I've got three important points I want to make, one about each of the topics in 
 
 Let's go!
 
+&#9744; &#9744;
+
 No! More philosophy [MOAR PHILOSOPHY](https://twitter.com/intent/tweet?text=@ChoiceEngine%20MOAR%20PHILOSOPHY)
 
 Why determinism is compatible with freewill [NEXT](https://twitter.com/intent/tweet?text=@ChoiceEngine%20NEXT)
