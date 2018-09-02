@@ -20,6 +20,8 @@ So when I feel the encroaching fear of determinism, I remind myself that "[That 
 
 I may be caused, but those causes are mine uniquely.
 
+&#9744; &#9744;
+
 But neuroscientists can predict what we'll do from looking at our brains, can't they? [BRAIN](https://twitter.com/intent/tweet?text=@ChoiceEngine%20BRAIN)
 
 How this connects to our beliefs about why we act: [REASONS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20REASONS)

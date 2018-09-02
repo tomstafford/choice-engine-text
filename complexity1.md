@@ -12,15 +12,13 @@ So, for example, if a cell is black, and its two neighbours are both black, the 
 
 Visualing the way the cellular automata changes over time is made easier if you put each successive state of the strip below the previous one, creating a 2D grid in which changes propogate downwards. Here is a picture of this, where the cells change according to '[Rule 30](http://en.wikipedia.org/wiki/Rule_30)' in Wolfram's numbering scheme..
 
-TK
-http://mathworld.wolfram.com/images/)eps-gif/ElementaryCARule030_700.gif
+![](ElementaryCARule030_1000.gif). Image credit: [Wolfram Mathworld](http://mathworld.wolfram.com/Rule30.html)
 
 From a single initial black square you can see the strip changes so that more and more of the cells are black. But most interesting is that the state of the cells seems to randomly explore the space between being completely black and completely white. Not only does how the cells change state look unpredictable, but you get these interesting higher-level patterns- the triangles of different sizes that begin appearing (you can see the biggest one on the right about half-way down).
 
 What happens to this pattern if we continue applying the rule? It doesn't settle into a stable state, but continues generating more black and white space, and more triangles:
 
-TK
-http://en.wikipedia.org/wiki/Rule_30#mediaviewer/File:Rule30-first-500-rows.png
+![](rule30.png). Image credit: [Zhiming Wang](https://github.com/zmwangx/rule30). CC0 1.0 Universal.
 
 Next up: what this means [CHAOS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CHAOS)
 
