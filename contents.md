@@ -1,42 +1,42 @@
 # Contents
 
 
-[README](/choice-engine-text/)
+1: [README](/choice-engine-text/)
 
-[causation](causation)
+2: [causation](causation)
 
-[chaos](chaos)
+3: [chaos](chaos)
 
-[close](close)
+4: [close](close)
 
-[colophon](colophon)
+5: [colophon](colophon)
 
-[complexity1](complexity1)
+6: [complexity1](complexity1)
 
-[contents](contents)
+7: [contents](contents)
 
-[dark-wood](dark-wood)
+8: [dark-wood](dark-wood)
 
-[determinism](determinism)
+9: [determinism](determinism)
 
-[expts](expts)
+10: [expts](expts)
 
-[have-map](have-map)
+11: [have-map](have-map)
 
-[hyped](hyped)
+12: [hyped](hyped)
 
-[intutions](intutions)
+13: [intuitions](intuitions)
 
-[libet1](libet1)
+14: [libet1](libet1)
 
-[libet2](libet2)
+15: [libet2](libet2)
 
-[more](more)
+16: [more](more)
 
-[philosophers](philosophers)
+17: [philosophers](philosophers)
 
-[reasons1](reasons1)
+18: [reasons1](reasons1)
 
-[sphexishness](sphexishness)
+19: [sphexishness](sphexishness)
 
-[useless](useless)
+20: [useless](useless)

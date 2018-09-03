@@ -13,15 +13,16 @@ def make_link(filename):
         return '[README](/choice-engine-text/)'
 
 
-def pad(item):
-    return '\n'+item+'\n'
+def pad(item,n):
+    return '\n'+str(n)+': '+item+'\n'
 
 filenames=sorted(glob.glob('*.md'))
 
 
-
+n=0
 with open('contents.md', 'w') as outfile:
     outfile.write('# Contents\n\n')
     for filename in filenames:
-        outfile.write(pad(make_link(filename)))
+        n+=1
+        outfile.write(pad(make_link(filename),n))
         
