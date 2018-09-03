@@ -1,8 +1,8 @@
 # Experiments
 
-We assume it matters what we believe about freewill. This is a testable idea. Let's get some people, try and make them believe there is no free will, and see what happenes.
+We assume it matters what we believe about freewill. This is a testable idea. Let's get some people, try and make them believe there is no free will, and see what happens.
 
-This is how psychologists think, and there is a mini-industry of experiments like this. Some have shown that people told there is no free will behave less morally - they are more likely to cheat on a test, for exanple - but others results are contradictory.
+This is how psychologists think, and there is a mini-industry of experiments like this. Some have shown that people told there is no free will behave less morally - they are more likely to cheat on a test, for example - but others results are contradictory.
 
 Christian Jarrett has covered the are well in his BPS Research Digest post: [Contrary to popular psychological theory, believers in free will were no more generous or honest](https://digest.bps.org.uk/2018/08/20/contrary-to-popular-psychological-theory-believers-in-free-will-were-no-more-generous-or-honest/).
 

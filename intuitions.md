@@ -1,6 +1,6 @@
 # Intuitions
 
-Did I convince you that simple rules can lead to the endless, generation of unpredicable forms? This is why I don't think determinism is any threat to our free choice.
+Did I convince you that simple rules can lead to the endless, generation of unpredictable forms? This is why I don't think determinism is any threat to our free choice.
 
 Our choices are free because they are ours, not because they are independent of the rest of the universe. They arise from the bit of the universe which we occupy - *our* history, *our* brains, *our* thoughts. This is what makes them unique, personal, unpredictable. 
 
@@ -22,9 +22,9 @@ But this isn't true. A better image is this one:
 
 ![](assets/cube.png)
 
-Mind and Brain are different sides of the same thing, just like a bicycle has wheels but it can also have a speed and direction. These are properties and functions, both intimately related to each other, existing intertwined but different kinds fo things<sup>[2](#footnote2)</sup>.
+Mind and Brain are different sides of the same thing, just like a bicycle has wheels but it can also have a speed and direction. These are properties and functions, both intimately related to each other, existing intertwined but different kinds of things<sup>[2](#footnote2)</sup>.
 
-When something affects your mind your brain is changed. Thoughts and feelings, arguments and reasons, all have a physical reality in your brain meat. We only have the slenderist grasp of what this reality is, but we know that events in the space of meaning - reasons, imaginations, fears and hopes are as causaly real as events in physical space.
+When something affects your mind your brain is changed. Thoughts and feelings, arguments and reasons, all have a physical reality in your brain meat. We only have the slenderest grasp of what this reality is, but we know that events in the space of meaning - reasons, imaginations, fears and hopes are as causally real as events in physical space.
 
 &#9744; &#9744;
 

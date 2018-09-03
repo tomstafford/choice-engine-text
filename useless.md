@@ -1,6 +1,6 @@
 # The uselessness of philosophy
 
-We're not going to solve this one today. You can check the journal archives or the publishers' catalogues, people have been arguing about this for millenia and there's no sign that the debate is going to let up. 
+We're not going to solve this one today. You can check the journal archives or the publishers' catalogues, people have been arguing about this for millennia and there's no sign that the debate is going to let up. 
 
 Even though I think I've reached a point where I know what I think, I still get caught by the emotional power of the dilemma. I'm happy that we live in a deterministic universe, but I still wake up some days with the existential heebee-jeebies. "It can't be true", I feel, "that my thinking being is just a part of the unthinking causal machinery of the universe".
 

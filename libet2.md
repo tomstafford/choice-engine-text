@@ -2,7 +2,7 @@
 
 If you brain signals an action before you experience yourself deciding, a clear interpretation your subjective feeling of deciding has nothing to do with the actual deciding - that conscious will is an illusion<sup>[1](#footnote1)</sup>.
 
-But this isn't the only intepretation.
+But this isn't the only interpretation.
 
 Here are some common, and less common, critiques of the experiment<sup>[2](#footnote2)</sup>:
 
@@ -35,7 +35,7 @@ To my mind [the demonstration that you can use fMRI to reproduce the Libet effec
 
 The power of Libet’s experiment relies as much on our false intuitions about the mind more than conclusively demonstrating anything new about freewill.
 
-We all share, to some degree, commonbut flawed intutions that our minds are seperate from our brains (known as dualism). This makes any result showing a connection between our minds and brains surprising. We also share the intuition that our experience of things is accurate, so tend to iterpret the experience of when we made a choice as reliable, but that doesn't mean that when we think we decided was actually when we decided. If deciding isn't a think that happens at a fixed point in time, decisions can still be ours, even if some brain activity changes before we realise we've decided.<sup>[3](#footnote3)</sup>.
+We all share, to some degree, common but flawed intuitions that our minds are separate from our brains (known as dualism). This makes any result showing a connection between our minds and brains surprising. We also share the intuition that our experience of things is accurate, so tend to interpret the experience of when we made a choice as reliable, but that doesn't mean that when we think we decided was actually when we decided. If deciding isn't a think that happens at a fixed point in time, decisions can still be ours, even if some brain activity changes before we realise we've decided.<sup>[3](#footnote3)</sup>.
 
 &#9744; &#9744;
 

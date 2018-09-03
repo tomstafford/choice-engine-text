@@ -14,7 +14,7 @@ Doesn't neuroscience contradict freewill? [LIBET](https://twitter.com/intent/twe
 
 &#9744; &#9744;
 
-<a name="footnote1">1</a>: compare with all the various quantom computation neuroscientific theories of freewill, which are all rather desperate and irrelevant in my opinion.
+<a name="footnote1">1</a>: compare with all the various quantum computation neuroscientific theories of freewill, which are all rather desperate and irrelevant in my opinion.
 
 <a name="footnote1">2</a>:Recently Dennett has said that he's dropped talking about the notion of freewill completely because it such an emotional trigger for people, but instead talks about what he calls "The Moral Agent's Club" which is a community of people who hold each other morally accountable. This analysis shows why ontological questions are irrelevant, he claims, to the ethical questions about responsibility.
 

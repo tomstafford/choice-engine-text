@@ -1,4 +1,4 @@
-## In a dark wood
+# In a dark wood
 
 This is the dilemma. We believe in order. Things happen for a reason. The universe, of which we are part, obeys causal laws. This determinism promises us an ordered world, and a comprehensible one. A world that follows natural laws without magic or deities.
 
@@ -6,7 +6,7 @@ And yet our feeling of being free to choose opposes this causal universe. We hav
 
 Each choice is made by us, and so it feels that it could have been made otherwise. Not only can we not avoid choosing, but we are compelled to believe that this choosing matters.
 
-[John Searle](http://www.goodreads.com/book/show/51904.Freedom_and_Neurobiology) said that even the most harded determinist, when faced with the restaurant menu, makes a choice - they don't throw up their hands and say, "There's no point me choosing between the chicken or the lentils, my decision has already been pre-determined!"
+[John Searle](http://www.goodreads.com/book/show/51904.Freedom_and_Neurobiology) said that even the most hardened determinist, when faced with the restaurant menu, makes a choice - they don't throw up their hands and say, "There's no point me choosing between the chicken or the lentils, my decision has already been pre-determined!"
 
 So we feel a contradiction between our belief in a causal universe and our experience of ourselves as making choices. Our choices appear as interventions in the causal flow of the universe. Our choices feel meaningful, and so can't merely be pre-determined by what happened before. 
 

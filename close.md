@@ -18,7 +18,7 @@ And, actually, these internal causes come in all different kinds, one of which i
 
 ![ ](assets/cause4.png)
 
-Your choices are free because they are yours, not because they are indepenedent of you or other structures in the world. 
+Your choices are free because they are yours, not because they are independent of you or other structures in the world. 
 
 With this view of free will and the self, details about the brain show us another side of things, they don't necessarily shrink the space within which the self exists. And just because the brain is a physical object, and neural signals have some kind of stable measurement, doesn't mean that ideas and meaning don't have an equally powerful role patterning our choices.
 
