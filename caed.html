@@ -1,0 +1,133 @@
+
+<html>
+<head>
+<title>CA Editor</title>
+<script language="javascript" type="text/javascript">
+
+var width = 20;
+var height = 20;
+var sqw = 15;
+var sqh = 15;var rule = new Array(0,0,0,1,1,1,1,0);function creategrid() {
+ document.write("<table cellpadding='0' cellspacing='0' border='1' bordercolor='#808080' style='border-collapse:collapse;'>");
+ for (i = 1; i <= height; i++) {
+  document.write("<tr>");
+  for (j = 1; j <= width; j++) {
+   document.write("<td><img src='one.gif' height='"+sqh+"' width='"+sqw+"' onclick='javascript:caupdate(this)' name='"+j+"-"+i+"'></td>");
+  }
+  document.write("</tr>");
+ }
+ document.write("</table>");
+}
+function clearca() {
+	for (img in document.images) {
+		if (img == 'length') { continue; }
+		imgstring = new String(img);
+		coords = imgstring.split("-");
+		if (coords[1] > 0) {
+		 xcoord = parseInt(coords[0],10);
+		 ycoord = parseInt(coords[1],10);
+		 imgnum = width * ycoord + xcoord - width - 1;
+	 }
+	 else { imgnum = img; }
+		document.images[imgnum].src = 'one.gif';
+	}
+	return true;
+}
+function caupdate(cell) {
+ var coordstring = new String(cell.name);
+ var coords = coordstring.split("-");
+ coords[0] -= '0';
+ coords[1] -= '0';
+ var cellname = coords[0] + width * (coords[1] - 1) - 1;
+ var imgsrc = new String(document.images[cellname].src);
+	if (imgsrc.substring(imgsrc.length - 7,imgsrc.length) == 'one.gif') {
+		document.images[cellname].src = 'two.gif';
+ }
+ else {
+	 document.images[cellname].src = 'one.gif';
+ }
+ var startx = coords[0];
+ if (startx > 1) { startx--; }
+ var endx = coords[0];
+ if (endx < width) { endx++; }
+ for (var cury = coords[1] + 1; cury <= height; cury++) {
+	 for (var curx = startx; curx <= endx; curx++) {
+   var simg = 'one.gif';
+   var tl = curx + width * (cury - 1) - 2 - width;
+   var tt = curx + width * (cury - 1) - 1 - width;
+   var tr = curx + width * (cury - 1) - width;
+   var cur = curx + width * (cury - 1) - 1;
+   
+   if (curx < 2) { var btl = false; }
+   else {
+    var stl = new String(document.images[tl].src);
+    if (stl.substring(stl.length - 7,stl.length) == 'two.gif') { var btl = true; }
+    else { var btl = false; }
+   }
+   var stt = new String(document.images[tt].src);
+   if (stt.substring(stt.length - 7,stt.length) == 'two.gif') { var btt = true; }
+   else { var btt = false; }
+   if (curx > width - 1) { btr = false; }
+   else {
+    var str = new String(document.images[tr].src);
+    if (str.substring(str.length - 7,str.length) == 'two.gif') { var btr = true; }
+    else { var btr = false; }
+   }
+   if ((rule[0] == 1 && btl && btt && btr) ||
+      (rule[1] == 1 && btl && btt && !btr) ||
+      (rule[2] == 1 && btl && !btt && btr) ||
+      (rule[3] == 1 && btl && !btt && !btr) ||
+      (rule[4] == 1 && !btl && btt && btr) ||
+      (rule[5] == 1 && !btl && btt && !btr) ||
+      (rule[6] == 1 && !btl && !btt && btr) ||
+      (rule[7] == 1 && !btl && !btt && !btr)) {
+	      simg = 'two.gif';
+   }
+   document.images[cur].src = simg;
+  }
+  if (startx > 1) { startx--; }
+  if (endx < width) { endx++; }
+ }
+}
+
+</script>
+</head>
+
+<body bgcolor="#FFFFFF" color="#000000">
+<center>
+<form method="post" action="caed.php" name="caedform">
+<table cellpadding="5" cellspacing="0">
+ <tr>
+  <td>
+   <script>creategrid(); </script>
+  </td>
+ </tr>
+ <tr>
+  <td align="right">
+   <input type="button" name="clear" value="Clear" onclick="javascript:clearca();">
+  </td>
+ </tr>
+ <tr>
+  <td>
+Rule number: <input type="text" size="3" maxlength="3" value="30" name="rulenum">  </td>
+ </tr>
+ <tr>
+  <td>
+Width: <input type="text" size="3" maxlength="3" value="20" name="width"> Height: <input type="text" size="3" maxlength="3" value="20" name="height">  </td>
+ </tr>
+ <tr>
+  <td>
+Cell width: <input type="text" size="3" maxlength="3" value="15" name="cellw"> Cell height: <input type="text" size="3" maxlength="3" value="15" name="cellh">  </td>
+ </tr>
+ <tr>
+  <td>
+   <input type="submit" name="submit" value="Submit">
+  </td>
+ </tr>
+</table>
+</form>
+</center>
+
+</body>
+</html>
+

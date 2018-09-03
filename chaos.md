@@ -4,8 +4,7 @@ Now without getting too obsessed with this artificial and toy example, I think t
 
 Such rules exhibit deterministic chaos - which has entered common speech through the idea of a butterfly flapping its wings and causing a storm the other side of the atlantic. What it really means is that a complex system can display high sensitivity to initial conditions, so that a small change (a single square being black rather than white, say - or a butterfly flapping its wings once rather than twice) can, in time, come to determine whether large scale patterns exist or not (whether there is a large triangle halfway down - or whether a storm forms across the atlantic). To see this viscerally you really need to play with an interactive demostration of the cellular automata, like this one:
 
-<iframe width="350" height="570" src="http://lucasoman.com/files/projects/caeditor/caed.php" frameborder="0" allowfullscreen></iframe>
-
+DEMO HERE
 
 Try this. Put a single black square on the top row and enjoy the patterns. Now go along the top row adding and removing an additional black square, so there are only ever two black squares on the top row. Sometime you can add a black square and there are no large changes in the pattern of triangles you see. Sometime you add a black square and a massive white triangle appears 'from nowhere'. That is a senstivity to initial conditions, your added black square is the butterfly flapping its wings.
 
