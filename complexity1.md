@@ -18,8 +18,7 @@ From a single initial black square you can see the strip changes so that more an
 
 What happens to this pattern if we continue applying the rule? It doesn't settle into a stable state, but continues generating more black and white space, and more triangles:
 
-![](assets/rule30_1.gif).
- Image credit: Made in processing, modifying [code](https://pastebin.com/vyQ0fkxj-) by [Fabienne Serrière ](https://twitter.com/fbz).
+![](assets/rule30_1.gif). Image credit: Made in Processing, modifying [code](https://pastebin.com/vyQ0fkxj-) by [Fabienne Serrière](https://twitter.com/fbz).
 
 Next up: what this means [CHAOS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CHAOS)
 
