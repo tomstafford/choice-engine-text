@@ -39,6 +39,4 @@
 
 [sphexishness](sphexishness)
 
-[truth](truth)
-
 [useless](useless)

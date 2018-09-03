@@ -26,7 +26,7 @@ As a wider trend, this is profoundly corrosive to how we think about ourselves.
 
 &#9744; &#9744;
 
-To learn about the evidence that reasoned argument is a powerful factor in changing minds, tweet @ChoiceEngine [TRUTH](https://twitter.com/intent/tweet?text=@ChoiceEngine%20TRUTH)
+Where this all takes us, tweet @ChoiceEngine [CLOSE](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CLOSE)
 
 &#9744; &#9744;
 
