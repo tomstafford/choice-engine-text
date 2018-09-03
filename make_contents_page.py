@@ -23,6 +23,7 @@ n=0
 with open('contents.md', 'w') as outfile:
     outfile.write('# Contents\n\n')
     for filename in filenames:
-        n+=1
-        outfile.write(pad(make_link(filename),n))
+        if filename!='contents.md':
+            n+=1
+            outfile.write(pad(make_link(filename),n))
         

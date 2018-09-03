@@ -11,32 +11,30 @@
 
 5: [colophon](colophon)
 
-6: [complexity1](complexity1)
+6: [complexity](complexity)
 
-7: [contents](contents)
+7: [dark-wood](dark-wood)
 
-8: [dark-wood](dark-wood)
+8: [determinism](determinism)
 
-9: [determinism](determinism)
+9: [expts](expts)
 
-10: [expts](expts)
+10: [have-map](have-map)
 
-11: [have-map](have-map)
+11: [hyped](hyped)
 
-12: [hyped](hyped)
+12: [intuitions](intuitions)
 
-13: [intuitions](intuitions)
+13: [libet1](libet1)
 
-14: [libet1](libet1)
+14: [libet2](libet2)
 
-15: [libet2](libet2)
+15: [more](more)
 
-16: [more](more)
+16: [philosophers](philosophers)
 
-17: [philosophers](philosophers)
+17: [reasons](reasons)
 
-18: [reasons1](reasons1)
+18: [sphexishness](sphexishness)
 
-19: [sphexishness](sphexishness)
-
-20: [useless](useless)
+19: [useless](useless)
