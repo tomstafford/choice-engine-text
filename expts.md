@@ -1,6 +1,6 @@
 # Experiments
 
-I assume it matters what we believe about freewill. Aside from sheer curiosity, this is a testable idea. Let's get some people, try and make them believe there is no free will, and see what happenes.
+We assume it matters what we believe about freewill. This is a testable idea. Let's get some people, try and make them believe there is no free will, and see what happenes.
 
 This is how psychologists think, and there is a mini-industry of experiments like this. Some have shown that people told there is no free will behave less morally - they are more likely to cheat on a test, for exanple - but others results are contradictory.
 
@@ -13,3 +13,5 @@ My take on this is that this is a flaw in our intuitions about responsibility, n
 &#9744; &#9744;
 
 Causation isn't the same as responsibility [CAUSATION](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CAUSATION)
+
+What this all adds up to [CLOSE](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CLOSE)

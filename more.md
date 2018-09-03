@@ -8,3 +8,9 @@ For more on ceullar automata and Rule 30 see:
  * Stephen Wolfram's [blog about the design of Cambridge Train Station](http://blog.stephenwolfram.com/2017/06/oh-my-gosh-its-covered-in-rule-30s/)
 * Lucas Oman's [cellular automata demo](http://lucasoman.com/files/projects/caeditor/caed.php)
 * Fabienne "[fbz](https://twitter.com/fbz)" Serrière makes [computational knitwear](https://twitter.com/knityak)
+
+&#9744; &#9744;
+
+For credits tweet @ChoiceEngine [CREDITS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CREDITS)
+
+For technical information on how this project was built tweet @ChoiceEngine [COLOPHON](https://twitter.com/intent/tweet?text=@ChoiceEngine%20COLOPHON)

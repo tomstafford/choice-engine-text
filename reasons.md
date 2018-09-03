@@ -10,7 +10,7 @@ I want to persuade you that reason and argument are still alive, despite being m
 
 To hear about how psychologists have over-hyped evidence of our irrationality, tweet @ChoiceEngine [HYPED](https://twitter.com/intent/tweet?text=@ChoiceEngine%20HYPED)
 
-To learn about the evidence that reasoned argument is a powerful factor in changing minds, tweet @ChoiceEngine [TRUTH](https://twitter.com/intent/tweet?text=@ChoiceEngine%20TRUTH)
+To think about our natural intuitions about freewill [INTUITIONS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20TRUTH)
 
 &#9744; &#9744;
 

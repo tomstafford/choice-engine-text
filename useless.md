@@ -14,7 +14,7 @@ Let's go!
 
 &#9744; &#9744;
 
-No! More philosophy [MOAR PHILOSOPHY](https://twitter.com/intent/tweet?text=@ChoiceEngine%20MOAR%20PHILOSOPHY)
+No! More philosophy [MORE](https://twitter.com/intent/tweet?text=@ChoiceEngine%20MORE)
 
 Why determinism is compatible with freewill [NEXT](https://twitter.com/intent/tweet?text=@ChoiceEngine%20NEXT)
 

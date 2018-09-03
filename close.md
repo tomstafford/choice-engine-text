@@ -24,8 +24,6 @@ With this view of free will and the self, details about the brain show us anothe
 
 We may be deterministic machines in a deterministic universe, but we are complex systems which carry an non-reducible nexus of causes with us - in our unique history, and unique position in the buzzing-blooming confusion of the environment. Our actions may be compelled, but they are in part compelled by personal causes. Causes which, for convenience, I will call "our selves".
 
-END?
-
 
 &#9744; &#9744;
 

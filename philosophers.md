@@ -8,7 +8,7 @@ I'm a compatibilist. I believe that freewill makes sense in a deterministic univ
 
 &#9744; &#9744;
 
-Tell me more about philosophy [MOAR PHILOSOPHY](https://twitter.com/intent/tweet?text=@ChoiceEngine%20MOAR%20PHILOSOPHY)
+Tell me more about philosophy [MORE](https://twitter.com/intent/tweet?text=@ChoiceEngine%20MORE)
 
 Doesn't neuroscience contradict freewill? [LIBET](https://twitter.com/intent/tweet?text=@ChoiceEngine%20LIBET)
 
