@@ -4,7 +4,7 @@ People talk about causes as if they exist outside ourselves, a free centre of th
 
 ![ ](assets/cause1.png)
 
-And with every discovery that something external influences our choices - whether something about the brain, or something about society - the free space where ourselves is threatened and shrinks:
+And with every discovery that something external influences our choices - whether something about the brain, or something about society - the free space is threatened and shrinks:
 
 ![ ](assets/cause2.png)
 
@@ -18,11 +18,11 @@ And, actually, these internal causes come in all different kinds, one of which i
 
 ![ ](assets/cause4.png)
 
-Your choices are free because they are yours, not because they are indepenedent of you or other structures in the world.
+Your choices are free because they are yours, not because they are indepenedent of you or other structures in the world. 
 
 With this view of free will and the self, details about the brain show us another side of things, they don't necessarily shrink the space within which the self exists. And just because the brain is a physical object, and neural signals have some kind of stable measurement, doesn't mean that ideas and meaning don't have an equally powerful role patterning our choices.
 
-We may be deterministic machines in a deterministic universe, but we are complex systems which carry an non-reducible nexus of causes with us - in our unique history, and unique position in the buzzing-blooming confusion of the environment. Our actions may be compelled, but they are in part compelled by personal causes. Causes which, for convenience, I will call "our selves".
+We may be deterministic machines in a deterministic universe, but we are complex systems which carry a non-reducible nexus of causes with us - in our unique history, and unique position in the buzzing-blooming confusion of the environment. Our actions may be compelled, but they are in part compelled by personal causes. Causes which, for convenience, I will call "our selves".
 
 
 &#9744; &#9744;

@@ -16,8 +16,6 @@ To start, tweet @ChoiceEngine [START](https://twitter.com/intent/tweet?text=@Cho
 
 This project started as notes on a talk, "Free will, Neuroscience and the Power of Reason" given to the [University of Sheffield Secular & Atheist Society](https://www.facebook.com/events/618961544893961) 11 December 2014.
 
-Major inspirations were Daniel Dennett's "Elbow Room". Douglas Hofstader's "Godel Escher Bach", and James Gleik's "Chaos".
-
 Thanks for Henry Cooke (@prehensile) for advice on bots, and those I've talked with about these issues over the years (but who do not necessarily endorse the ideas in this essay), especially Nicol Harper and Laurence Piercy.
 
 &#9744; &#9744;

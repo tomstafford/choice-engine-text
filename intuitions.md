@@ -16,14 +16,15 @@ I think if you tried to make a diagram of how people naturally thought about the
 
 ![](assets/squares.png)
 
-Our mind existing above and seperate from our brains, and maybe our true inner selves existing above and seperate from our minds. If you think like this it doesn't sit right to think that your mind is your brain. Perhaps you even react in disgust when you find out that physical facts about your brain affect you and your mind at all.
+The brain and mind as two entities, and the brain influencing the mind but not the other way around. 
 
-A better image is this one:
+But this isn't true. A better image is this one:
 
 ![](assets/cube.png)
 
 Mind and Brain are different sides of the same thing, just like a bicycle has wheels but it can also have a speed and direction. These are properties and functions, both intimately related to each other, existing intertwined but different kinds fo things<sup>[2](#footnote2)</sup>.
 
+When something affects your mind your brain is changed. Thoughts and feelings, arguments and reasons, all have a physical reality in your brain meat. We only have the slenderist grasp of what this reality is, but we know that events in the space of meaning - reasons, imaginations, fears and hopes are as causaly real as events in physical space.
 
 &#9744; &#9744;
 

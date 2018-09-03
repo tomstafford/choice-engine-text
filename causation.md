@@ -6,7 +6,7 @@ This simplicity is an illusion. Everything happens because of many other things 
 
 For complex events there are chains and circuits of actions, reactions and consequences which build to a crescendo of the final outcome. Some small factors are amplified by positive feedback, some large factors are blocked or otherwise diminish. We see an outcome like a car crash and the chain of causation stretches back and out across all the cars, that bit of the road, the drivers, what was on the radio one of the drivers was listening to just before the crash, how the drivers slept last night, how the mechanic who adjusted the steering of one of the cars three weeks ago slept and so on.
 
-Yet our intution about causation is to find a single cause. "Whose fault was this?". "Who is to blame?". Morally, maybe, we can assign responsibility, but certainly we can't causally.
+Yet our intution about causation is to find a single cause. "Whose fault was this?". "Who is to blame?". Morally, maybe, we can assign responsibility, but causally, we certaintly can't.
 
 
 &#9744; &#9744;

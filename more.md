@@ -1,5 +1,7 @@
 # Further reading
 
+Major inspirations were Daniel Dennett's "Elbow Room". Douglas Hofstader's "Godel Escher Bach", and James Gleik's "Chaos".
+
 Unlike me, Kevin Mitchell thinks physical determinacy undermines free will, but here he argues why mental content - beliefs, thoughts, etc - has a causal role even in a physical system (i.e. our brains): [Does Neuroscience Leave Room for Free Will?](https://www.sciencedirect.com/science/article/pii/S0166223618301553)
 
 For more on ceullar automata and Rule 30 see:

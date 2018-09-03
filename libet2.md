@@ -43,8 +43,6 @@ To dive into why thinking of the brain as complex system gives even more reason 
 
 To skip to evidence that reason, argument and evidence have real power to guide our choices:  [REASONS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20REASONS1).
 
-To skip to evidence that reason, argument and evidence have real power to guide our choices:  [REASONS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20REASONS1).
-
 If you'd like to hear some closing words, tweet @ChoiceEngine [CLOSE](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CLOSE)
 
 &#9744; &#9744;
