@@ -7,3 +7,4 @@ For more on ceullar automata and Rule 30 see:
  * Devin Acker's [Simple 1D Wolfram cellular automaton using HTML5/JS ](http://devinacker.github.io/celldemo/)
  * Stephen Wolfram's [blog about the design of Cambridge Train Station](http://blog.stephenwolfram.com/2017/06/oh-my-gosh-its-covered-in-rule-30s/)
 * Lucas Oman's [cellular automata demo](http://lucasoman.com/files/projects/caeditor/caed.php)
+* Fabienne "[fbz](https://twitter.com/fbz)" Serrière makes [computational knitwear](https://twitter.com/knityak)
