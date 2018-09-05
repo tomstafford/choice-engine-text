@@ -4,7 +4,7 @@ Diagrams made with [Google Slides](https://docs.google.com/presentation/d/1fK_Ve
 
 Animated gif make using Processing, with code from modifying [code](https://pastebin.com/vyQ0fkxj-) by [Fabienne Serrière](https://twitter.com/fbz).
 
-BOT DETAILS HERE
+The ChoiceEngine bot is a Ruby & Rack based application, running on Heroku with a postgres database and scheduled jobs. Twitter API functionality is accessed using the [Chatterbot Ruby Gem](https://github.com/muffinista/chatterbot). 
 
 &#9744; &#9744;
 
