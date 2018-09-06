@@ -1,4 +1,4 @@
-## The Choice Engine
+# The Choice Engine
 
 
 To start, tweet @ChoiceEngine [START](https://twitter.com/intent/tweet?text=@ChoiceEngine%20START)
@@ -12,5 +12,10 @@ Thanks for Henry Cooke ([@prehensile](https://twitter.com/prehensile)) for advic
 &#9744; &#9744;
 
 Donate: if you enjoyed this project, you can donate via PayPal [here](paypal.me/tomqstafford). Proceeds will be split between the design team, who did far more work than they were paid for, with Tom's 1/3rd going to [City of Sanctuary](https://cityofsanctuary.org/), an organisation working to build a culture of hospitality for people seeking sanctuary in the UK 
+
+
+
+
+
 
 ![](assets/logo.jpg)
