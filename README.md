@@ -1,9 +1,7 @@
 ## The Choice Engine
 
 Words - [Tom Stafford](http://tomstafford.staff.shef.ac.uk/).
-
 Code - [James Jefferies](https://www.shedcode.co.uk/).
-
 Design - [Jon Cannon](http://www.joncannon.co.uk/).
 
 Funded by [Festival of the Mind](http://festivalofthemind.group.shef.ac.uk/).
