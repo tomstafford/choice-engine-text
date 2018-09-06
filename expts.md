@@ -10,7 +10,7 @@ Some people have written as if the philosophy of free will is a kind of dynamite
 
 My take on this is that this is a flaw in our intuitions about responsibility, not because there is a terrible truth about our (lack of) free will which we must be protected from. Your choices are yours, regardless of how free they are as a choices.
 
-&#9744; &#9744;
+&#9744;&#9744;
 
 Causation isn't the same as responsibility [CAUSATION](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CAUSATION)
 

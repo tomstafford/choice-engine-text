@@ -37,7 +37,7 @@ The power of Libet’s experiment relies as much on our false intuitions about t
 
 We all share, to some degree, common but flawed intuitions that our minds are separate from our brains (known as dualism). This makes any result showing a connection between our minds and brains surprising. We also share the intuition that our experience of things is accurate, so tend to interpret the experience of when we made a choice as reliable, but that doesn't mean that when we think we decided was actually when we decided. If deciding isn't a think that happens at a fixed point in time, decisions can still be ours, even if some brain activity changes before we realise we've decided.<sup>[3](#footnote3)</sup>.
 
-&#9744; &#9744;
+&#9744;&#9744;
 
 To dive into why thinking of the brain as complex system gives even more reason to believe in a rich sense of free will: [COMPLEXITY](https://twitter.com/intent/tweet?text=@ChoiceEngine%20COMPLEXITY).
 
@@ -45,7 +45,7 @@ To skip to evidence that reason, argument and evidence have real power to guide 
 
 If you'd like to hear some closing words, tweet @ChoiceEngine [CLOSE](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CLOSE)
 
-&#9744; &#9744;
+&#9744;&#9744;
 
 <a name="footnote1">1</a>: Daniel Wegner expanded this argument with a range of evidence in his (great) book "[The Illusion of Conscious Will](https://mitpress.mit.edu/books/illusion-conscious-will)"
 

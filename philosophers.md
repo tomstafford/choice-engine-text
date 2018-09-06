@@ -6,13 +6,13 @@ I'm a compatibilist. I believe that freewill makes sense in a deterministic univ
 
 Dennett also argues that you don't need indeterminism for personal responsibility - in other words we can hold people responsible for their actions even in a deterministic universe. The freewill questions has ontological and ethical dimensions, which people often confuse (and which it is conceivable that they are intertwined), but I follow Dennett in claiming that they are often more confused than they should be. That is, people often think that the status of the nature of the universe (ontology) has strong bearing on how we should feel about responsibility (ethics). I doubt this and will try and explain why<sup>[2](#footnote2)</sup>.
 
-&#9744; &#9744;
+&#9744;&#9744;
 
 Tell me more about philosophy [MORE](https://twitter.com/intent/tweet?text=@ChoiceEngine%20MORE)
 
 Doesn't neuroscience contradict freewill? [LIBET](https://twitter.com/intent/tweet?text=@ChoiceEngine%20LIBET)
 
-&#9744; &#9744;
+&#9744;&#9744;
 
 <a name="footnote1">1</a>: compare with all the various quantum computation neuroscientific theories of freewill, which are all rather desperate and irrelevant in my opinion.
 

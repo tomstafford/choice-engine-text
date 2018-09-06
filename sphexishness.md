@@ -16,13 +16,13 @@ The reason not to fear sphexishness is complexity. The sphex is a misleading exa
 
 To illustrate what I'm getting at here, I'm going to tell you about a simple, completely deterministic system that convinced me, viscerally that being a deterministic system didn't mean being reduced to a simplistic or predictable creature.
 
-&#9744; &#9744;
+&#9744;&#9744;
 
 Tell me about cellular automata [RULE30](https://twitter.com/intent/tweet?text=@ChoiceEngine%20RULE%2030)
 
 Skip that, tell me what it means [CHAOS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CHAOS)
 
-&#9744; &#9744;
+&#9744;&#9744;
 
 <a name="footnote1">1</a>: A behaviour, incidentally, which may have played a role in Darwin's loss of faith "I cannot persuade myself that a beneficent & omnipotent God would have designedly created the Ichneumonidae with the express intention of their feeding within ... living bodies": [link](http://www.asa3.org/ASA/PSCF/2001/PSCF9-01Miles.html)
 

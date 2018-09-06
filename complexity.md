@@ -22,7 +22,7 @@ What happens to this pattern if we continue applying the rule? It doesn't settle
 ![](assets/rule30_1.gif) 
 Image credit: Made in Processing, modifying [code](https://pastebin.com/vyQ0fkxj-) by [Fabienne Serrière](https://twitter.com/fbz).
 
-&#9744; &#9744;
+&#9744;&#9744;
 
 Next up: what this means [CHAOS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CHAOS)
 

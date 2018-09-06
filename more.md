@@ -11,7 +11,7 @@ For more on cellular automata and Rule 30 see:
 * Lucas Oman's [cellular automata demo](http://lucasoman.com/files/projects/caeditor/caed.php)
 * Fabienne "[fbz](https://twitter.com/fbz)" Serrière makes [computational knitwear](https://twitter.com/knityak)
 
-&#9744; &#9744;
+&#9744;&#9744;
 
 For credits tweet @ChoiceEngine [CREDITS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CREDITS)
 

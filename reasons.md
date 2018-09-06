@@ -6,12 +6,12 @@ All this is deeply unfashionable in world which sometimes seems to have fallen o
 
 I want to persuade you that reason and argument are still alive, despite being maligned, and have always mattered to how we choose<sup>[1](#footnote1)</sup>.
 
-&#9744; &#9744;
+&#9744;&#9744;
 
 To hear about how psychologists have over-hyped evidence of our irrationality, tweet @ChoiceEngine [HYPED](https://twitter.com/intent/tweet?text=@ChoiceEngine%20HYPED)
 
 To think about our natural intuitions about freewill [INTUITIONS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20TRUTH)
 
-&#9744; &#9744;
+&#9744;&#9744;
 
 <a name="footnote1">1</a>: I wrote an e-book about this topic called '[For argument's sake: evidence that reason can change minds](https://www.amazon.co.uk/arguments-sake-evidence-reason-change-ebook/dp/B010O1Z018)'

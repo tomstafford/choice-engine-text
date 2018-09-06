@@ -12,7 +12,7 @@ I've got three important points I want to make. I want to explain *why* I came t
 
 Let's go!
 
-&#9744; &#9744;
+&#9744;&#9744;
 
 More philosophy! [MORE](https://twitter.com/intent/tweet?text=@ChoiceEngine%20MORE)
 

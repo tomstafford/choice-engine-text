@@ -26,11 +26,11 @@ The research shows that people are both biased *and* evidence sensitive, but onl
 
 Time and time again a psychology experiment which shows evidence of reasonableness and bias is promoted as evidence of our irrationality. As a wider trend, this is profoundly corrosive to how we think about ourselves.
 
-&#9744; &#9744;
+&#9744;&#9744;
 
 Where this all takes us, tweet @ChoiceEngine [CLOSE](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CLOSE)
 
-&#9744; &#9744;
+&#9744;&#9744;
 
 <a name="footnote1">1</a>: And once you learn about confirmation bias you start to see it everywhere.
 
