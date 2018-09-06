@@ -6,6 +6,6 @@ Animated gif make using Processing, with code from modifying [code](https://past
 
 The ChoiceEngine bot is a Ruby & Rack based application, running on Heroku with a postgres database and scheduled jobs. Twitter API functionality is accessed using the [Chatterbot Ruby Gem](https://github.com/muffinista/chatterbot). 
 
-&#9744;&#9744;
+&#9744; &#9744;
 
 For credits tweet @ChoiceEngine [CREDITS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CREDITS)

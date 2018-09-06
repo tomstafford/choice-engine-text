@@ -9,7 +9,7 @@ For complex events there are chains and circuits of actions, reactions and conse
 Yet our intuition about causation is to find a single cause. "Whose fault was this?". "Who is to blame?". Morally, maybe, we can assign responsibility, but causally, we certainly can't.
 
 
-&#9744;&#9744;
+&#9744; &#9744;
 
 What happens when you tell people they are, or they aren't free: [EXPTS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20EXPTS)
 

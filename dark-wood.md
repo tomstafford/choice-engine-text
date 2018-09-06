@@ -14,7 +14,7 @@ Our choices seem to contain the magic of our selves.
 
 Things happen for a reason, but surely we are not mere things!
 
-&#9744;&#9744;
+&#9744; &#9744;
 
 You stumble upon a map
 

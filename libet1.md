@@ -6,11 +6,11 @@ Here's the result: Libet's participants reported that they decided to move in be
 
 If your feeling of deciding comes after the brain activity involved in deciding, then - the argument goes - your feeling of deciding cannot play a role in actually deciding. Causation happens forward in time. Something about your brain activity implements deciding, and only then is your subjective sense of making this decision informed, and then after that you actually move. All this happens in fractions of sections, but the order these things happens puts a hard constraint on the role your feeling of deciding can play in the decision.
 
-&#9744;&#9744;
+&#9744; &#9744;
 
 Why this doesn't mean that your brain makes your choices for you [LIBET-Y](https://twitter.com/intent/tweet?text=@ChoiceEngine%20LIBET-Y)
 
-&#9744;&#9744;
+&#9744; &#9744;
 
 <a name="footnote1">1</a>: I am following his book "Mind time: The temporal factor in consciousness" here for details. 
 

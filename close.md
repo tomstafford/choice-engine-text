@@ -26,11 +26,11 @@ We may be deterministic machines in a deterministic universe, but we are complex
 
 This is the kind of freedom worth wanting, to choose because of who you are.
 
-&#9744;&#9744;
+&#9744; &#9744;
 
 END
 
-&#9744;&#9744;
+&#9744; &#9744;
 
 To learn about who worked on this project, tweet @ChoiceEngine [CREDITS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CREDITS)
 

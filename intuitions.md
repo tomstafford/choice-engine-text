@@ -26,13 +26,13 @@ Mind and Brain are different sides of the same thing, just like a bicycle has wh
 
 When something affects your mind your brain is changed. Thoughts and feelings, arguments and reasons, all have a physical reality in your brain meat. We only have the slenderest grasp of what this reality is, but we know that events in the space of meaning - reasons, imaginations, fears and hopes are as causally real as events in physical space.
 
-&#9744;&#9744;
+&#9744; &#9744;
 
 What happens when you tell people they are, or they aren't free: [EXPTS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20EXPTS)
 
 Why it matters how you think of the mind/brain [CAUSATION](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CAUSATION)
 
-&#9744;&#9744;
+&#9744; &#9744;
 
 <a name="footnote1">1</a>: Paul Bloom's book is "[Descartes' Baby: How the Science of Child Development Explains What Makes Us Human ](https://www.goodreads.com/book/show/225880.Descartes_Baby)" is great on the idea that we are 'Natural Born Dualists'
 
