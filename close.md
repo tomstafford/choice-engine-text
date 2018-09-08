@@ -14,7 +14,7 @@ I find it is more helpful to think of external and internal causes:
 
 ![ ](assets/cause3.png)
 
-And, actually, these internal causes come in all different kinds, one of which is that they persist over time:
+And, actually, these internal causes come in all different kinds: facts about your brain, about your experiences, your past choices and beliefs. These all add up, affecting what you decide at each future moment. A braid of all these past events persists over time, definining a unique set of internal causes for each new choice.
 
 ![ ](assets/cause4.png)
 

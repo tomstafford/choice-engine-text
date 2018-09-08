@@ -8,7 +8,7 @@ And yet.
 
 And yet.
 
-Even though I avow this, it doesn't sit comfortably. Maybe you're the same. My intuitions tell me that the riddle isn't solved. 
+Even though I avow this, it doesn't alwats sit comfortably. Maybe you're the same. My intuitions tell me that the riddle isn't solved. 
 
 Part of this is how deeply felt is our natural born dualism<sup>[1](#footnote1)</sup>. We feel like our minds are not just different from our brains, but a different kind of stuff. Non-physical thought stuff, existing in a different realm from [the meat of our bodies and brains](https://mindhacks.com/2011/07/07/theyre-made-out-of-meat/).
 

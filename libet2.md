@@ -1,6 +1,6 @@
 # Escape from Libet
 
-If you brain signals an action before you experience yourself deciding, a clear interpretation your subjective feeling of deciding has nothing to do with the actual deciding - that conscious will is an illusion<sup>[1](#footnote1)</sup>.
+If you brain signals an action before you experience yourself deciding, a clear interpretation is that your subjective feeling of deciding has nothing to do with the actual deciding - that conscious will is an illusion<sup>[1](#footnote1)</sup>.
 
 But this isn't the only interpretation.
 
@@ -14,7 +14,7 @@ The choice required from Libet’s participants was trivial and inconsequential.
 
 [Dennett](http://onlinelibrary.wiley.com/doi/10.1196/annals.1279.003/full) discusses how the original interpretation of the experiment assumes that the choosing self exists at a particular point and at particular time – so, for example, maybe in some central ‘Cartesian Theatre’ in which information from motor cortex and visual cortex come together, but crucially, does not have direct report of (say) the information about timing gathered by the visual cortex. Even in a freely choosing self, there will be timing delays as information on the clock time is ‘connected up’ with information on when the movement decision was made. These, Dennett argues, could produce the result Libet saw without indicating a fatal compromise for free choice.
 
-My spin on this is that the Libet result shows, minimally, that we don’t accurately know the timing of our decisions, but inaccurate judgements about the timing of decisions doesn’t mean that we don’t actually make the decisions themselves that are consequential.
+My spin on this is that the Libet result shows, minimally, that we don’t accurately know the timing of our decisions, but inaccurate judgements about the timing of decisions doesn’t mean that we don’t actually make those decisions.
 
 ## Spontaneous activity
 
@@ -33,9 +33,9 @@ A consistent, but not universal, pattern in the brain before a choice has the fl
 To my mind [the demonstration that you can use fMRI to reproduce the Libet effect](http://www.nature.com/neuro/journal/v11/n5/full/nn.2112.html) but with brain signals changing up to 10 seconds before the movement (and an above chance accuracy at predicting the movement made), only reinforces this point. We all believe that the mind has something to do with the brain, so finding patterns in the brain at one point which predict actions in the mind at a later point isn’t surprising.
 
 
-The power of Libet’s experiment relies as much on our false intuitions about the mind more than conclusively demonstrating anything new about freewill.
+The power of Libet’s experiment relies as much on our false intuitions about the mind, rather than conclusively demonstrating anything new about freewill.
 
-We all share, to some degree, common but flawed intuitions that our minds are separate from our brains (known as dualism). This makes any result showing a connection between our minds and brains surprising. We also share the intuition that our experience of things is accurate, so tend to interpret the experience of when we made a choice as reliable, but that doesn't mean that when we think we decided was actually when we decided. If deciding isn't a think that happens at a fixed point in time, decisions can still be ours, even if some brain activity changes before we realise we've decided.<sup>[3](#footnote3)</sup>.
+We all share, to some degree, common but flawed intuitions that our minds are separate from our brains (known as dualism). This makes any result showing a connection between our minds and brains feel surprising. We also share the intuition that our experience of things is accurate, so tend to interpret the experience of when we made a choice as reliable, but that doesn't mean that when we thing we decided was actually when we decided. If deciding isn't a think that happens at a fixed point in time, decisions can still be ours, even if some brain activity changes before we realise we've decided.<sup>[3](#footnote3)</sup>.
 
 &#9744; &#9744;
 

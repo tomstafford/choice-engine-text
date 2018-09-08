@@ -2,15 +2,19 @@
 
 Imagine, a row squares, like the top row of a chess board. Each square, which I'll call a cell, has one of two possible states. You can think of these as "on" and "off", or 0 and 1 if you prefer, but I'm going to refer to them as "black" and "white". In this strip, each cell changes according to a simple rule which takes account of only three things - that cell's current state (black or white) and the current state of the two cells either side.
 
-We have now [defined a universe](http://en.wikipedia.org/wiki/Cellular_automaton) over which we have complete knowledge of the state of everything in it (simple really, each cell is either black or white) and also the 'laws of physics' which determine change between states.
+![](assets/CAworld.png)
 
-If you do the maths, there is a relatively small set of possible rules. There are 8 possible input states (each rule considers only 3 cells, and each cell has only 2 possible states = 2<sup>3</sup> input states), and for each input state one of the two possible output states is declared. 
+We have now [defined a universe](http://en.wikipedia.org/wiki/Cellular_automaton) over which we have complete knowledge of the state of everything in it (simple really, each cell is either black or white) and also the 'laws of physics' which determine change between states (cells change depending on their current state and their immediate neighbours).
 
-So, for example, if a cell is black, and its two neighbours are both black, the rule could specify that the cell then turns white. If, for all other combinations of input states, the rules also specified that the cell turns white, then we'd have laws of physics that pretty soon made the whole strip white, however it started out. That is one possible, uninteresting, rule.
+So, for example, if a cell is black, and its two neighbours are both black, the rule could specify that the cell then turns white:
 
-[Stephen Wolfram](http://vserver1.cscs.lsa.umich.edu/~crshalizi/reviews/wolfram/) came up with a numbering system for all the possible rules. It turns out that many rules are very boring (everything goes black or everything goes white), some are marginally interesting (you get patterns that repeat, for example), and a small minority are super-interesting. 
+![](assets/CArule.png)
 
-Visualising the way the cellular automaton changes over time is made easier if you put each successive state of the strip below the previous one, creating a 2D grid in which changes propagate downwards. Here is a picture of this, where the cells change according to '[Rule 30](http://en.wikipedia.org/wiki/Rule_30)' in Wolfram's numbering scheme. The grid world starts with a single cell which is black and all the rest white, and the changes are written in successful rows stretching below the top row.
+For each cell in the row we look at its state and those of its neighbours and apply the rule which says how it should change. If, for all other combinations of input states, the rules also specified that the cell turns white, then we'd have laws of physics that pretty soon made the whole strip white, however it started out. That is one possible, uninteresting, rule.
+
+[Stephen Wolfram](http://vserver1.cscs.lsa.umich.edu/~crshalizi/reviews/wolfram/) came up with a numbering system for these rules, allowing us to systemmatically search the space of all possible rules. It turns out that many rules are very boring (everything goes black or everything goes white), some are marginally interesting (you get patterns that repeat, for example), and a small minority are super-interesting. 
+
+Visualising the way the cellular automaton changes over time is made easier if you put each successive state of the strip below the previous one, creating a 2D grid in which changes propagate downwards. Here is a picture of this, where the cells change according to '[Rule 30](http://en.wikipedia.org/wiki/Rule_30)' in Wolfram's numbering scheme. The grid world starts with a single cell which is black and all the rest white (the top row), and the changes are written in successful rows stretching down.
 
 ![](assets/ElementaryCARule030_1000.gif) 
 Image credit: [Wolfram Mathworld](http://mathworld.wolfram.com/Rule30.html)

@@ -2,7 +2,7 @@
 
 Choice Engine is about the neuroscience of free will, about our intuitions about freedom and choice, and about complex systems and what they can teach us about the first two things.
 
-Choice Engine will not settle the riddle of free will, but it does map out some paths through the woods. Some things that worry people about free will shouldn't. Some apparent contradictions aren't. Finding out more about neuroscience doesn't diminish our responsibility, or our selves.
+Choice Engine will not settle the riddle of free will, but it does map out some paths through the woods. Some things that worry people about free will shouldn't. Some apparent contradictions aren't. Finding out more about neuroscience doesn't diminish our responsibilities, or our selves.
 
 &#9744; &#9744;
 
