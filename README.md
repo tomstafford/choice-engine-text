@@ -1,7 +1,10 @@
 # The Choice Engine
 
-
 To start, tweet @ChoiceEngine [START](https://twitter.com/intent/tweet?text=@ChoiceEngine%20START)
+
+&#9744; &#9744;
+
+If you enjoyed the ideas in this project, or think you might enjoy them, come to our [discussion at 4pm on Tuesday 25th of September](http://festivalofthemind.group.shef.ac.uk/the-choice-engine-talk/) at the Spiegaltent, Barker's Pool, Sheffield. (ignore the website, the date is currently wrong here)
 
 &#9744; &#9744;
 
