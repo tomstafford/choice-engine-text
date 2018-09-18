@@ -2,6 +2,8 @@
 
 Major inspirations were Daniel Dennett's "Elbow Room". Douglas Hofstader's "Godel Escher Bach", and James Gleik's "Chaos".
 
+For more on the philosophy of mind, start with Gilbert Ryle's (1949) "[The Concept of Mind](https://en.wikipedia.org/wiki/The_Concept_of_Mind)". Roy Porter's "[Flesh in the Age of Reason](https://www.goodreads.com/book/show/479533.Flesh_in_the_Age_of_Reason)" is a great historical account of how modern ideas about the mind developed.
+
 Unlike me, Kevin Mitchell thinks physical determinacy undermines free will, but here he argues why mental content - beliefs, thoughts, etc - has a causal role even in a physical system (i.e. our brains): [Does Neuroscience Leave Room for Free Will?](https://www.sciencedirect.com/science/article/pii/S0166223618301553)
 
 For more on cellular automata and Rule 30 see:
