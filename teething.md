@@ -2,7 +2,7 @@
 
 The Choice Engine is an experimental project, and some bits of it are turning out to be more experimental than others.
 
-Some users are not seeing the replies to their tweets. We haven't quite got to the bottom of this but our current best guess is that, to be sure you see tweets from @ChoiceEngine you should:
+Some users are not seeing the replies to their tweets. We haven't quite got to the bottom of this but our current best guess is that, to be sure you see tweets from @ChoiceEngine, you should:
  * follow @ChoiceEngine
  * visit Settings & Privacy > [Notifications](https://twitter.com/settings/notifications_timeline) and de-select "Quality filter" 
  
