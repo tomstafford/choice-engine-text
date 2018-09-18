@@ -9,6 +9,8 @@ Some users are not seeing the replies to their tweets. We haven't quite got to t
 Sorry about this, it has something to do with Twitter's efforts to protect us all from spambots. This is also the reason the account has to broadcast tweet regularly, rather than just reply. 
 
  If you have done these things and still you don't see replies, please get in touch because we'd like to know about it and maybe you can help us fix it.
+
+One thing to note is the bot is not designed to reply immediately. You should receive a reply with in 5 hours or so.
  
  In case you wondered, we have considered these possible factors:
  * The account is not protected
