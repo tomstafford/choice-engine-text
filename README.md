@@ -1,6 +1,6 @@
 # The Choice Engine
 
-To start, tweet @ChoiceEngine [START](https://twitter.com/intent/tweet?text=@ChoiceEngine%20START)
+To start, please follow @ChoiceEngine and tweet at it [START](https://twitter.com/intent/tweet?text=@ChoiceEngine%20START)
 
 &#9744; &#9744;
 
