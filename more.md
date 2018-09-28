@@ -16,6 +16,11 @@ For more on cellular automata and Rule 30 see:
 Also recommended
 * Greene & Cohen (2004). [For the law, neuroscience changes nothing and everything.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1693457/)
 
+Victorian Science
+* Stanley, Matthew. "The Pointsman: Maxwell's Demon, Victorian Free Will, and the Boundaries of Science." Journal of the History of Ideas 69, no. 3 (2008): 467-91.
+* Reed, J. R. (1989). Victorian will.
+* Ifill, H. (2018). Creating character: Theories of nature and nurture in Victorian sensation fiction. Oxford University Press.
+
 &#9744; &#9744;
 
 For credits tweet @ChoiceEngine [CREDITS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CREDITS)
