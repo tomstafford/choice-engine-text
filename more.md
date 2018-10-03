@@ -1,6 +1,7 @@
 # Further reading
 
-Major inspirations were Daniel Dennett's "Elbow Room". Douglas Hofstader's "Godel Escher Bach", and James Gleik's "Chaos".
+Major inspirations were Daniel Dennett's "[Elbow Room](https://en.wikipedia.org/wiki/Elbow_Room_(book)
+)". Douglas Hofstader's "[Godel Escher Bach](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach)", and James Gleik's "[Chaos](https://en.wikipedia.org/wiki/Chaos:_Making_a_New_Science)".
 
 For more on the philosophy of mind, start with Gilbert Ryle's (1949) "[The Concept of Mind](https://en.wikipedia.org/wiki/The_Concept_of_Mind)". Roy Porter's "[Flesh in the Age of Reason](https://www.goodreads.com/book/show/479533.Flesh_in_the_Age_of_Reason)" is a great historical account of how modern ideas about the mind developed.
 
