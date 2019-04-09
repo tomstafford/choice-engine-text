@@ -1,6 +1,6 @@
 # Sphexishness
 
-Dennett, in his book Elbow Room, describes a particular emotional reaction to determinism, which he calls fear of 'Sphexishness'. This is after the digger wasp (*Sphex ichneumoneus*). The digger wasp is a solitary wasp, which lives in a burrow, rather than communally in a hive. The digger wasp follows a particular behavioural pattern before it lays its young, which you can see here:
+Dennett, in his book Elbow Room, describes a particular emotional reaction to determinism, a fear called 'Sphexishness'<sup>[1](#footnote1)</sup>. This is after the digger wasp (*Sphex ichneumoneus*). The digger wasp is a solitary wasp, which lives in a burrow, rather than communally in a hive. The digger wasp follows a particular behavioural pattern before it lays its young, which you can see here:
 
 <iframe  width="560" height="420" src="https://www.youtube.com/embed/5t2p4ukzL74?color=white&theme=light"></iframe>
 
@@ -24,6 +24,8 @@ Skip that, tell me what it means [CHAOS](https://twitter.com/intent/tweet?text=@
 
 &#9744; &#9744;
 
-<a name="footnote1">1</a>: A behaviour, incidentally, which may have played a role in Darwin's loss of faith "I cannot persuade myself that a beneficent & omnipotent God would have designedly created the Ichneumonidae with the express intention of their feeding within ... living bodies": [link](http://www.asa3.org/ASA/PSCF/2001/PSCF9-01Miles.html)
+<a name="footnote1">1</a>: Dennett attributed the coining of 'sphexishness' to Douglas Hoftstader, in his article "Can Creativity be Mechanized?" Scientific American, 247, September 1982, 18-34.
 
-<a name="footnote1">2</a> Watch Richard Dawkins explain the experiments with the digger wasp in the [1991 Royal Institution Christmas Lectures](https://youtu.be/qm-0Z0ceezQ?t=2m30s)
+<a name="footnote2">2</a>: A behaviour, incidentally, which may have played a role in Darwin's loss of faith "I cannot persuade myself that a beneficent & omnipotent God would have designedly created the Ichneumonidae with the express intention of their feeding within ... living bodies": [link](http://www.asa3.org/ASA/PSCF/2001/PSCF9-01Miles.html)
+
+<a name="footnote3">3</a>: Watch Richard Dawkins explain the experiments with the digger wasp in the [1991 Royal Institution Christmas Lectures](https://youtu.be/qm-0Z0ceezQ?t=2m30s)
