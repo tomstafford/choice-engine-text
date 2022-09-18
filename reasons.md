@@ -8,9 +8,9 @@ I want to persuade you that reason and argument are still alive, despite being m
 
 &#9744; &#9744;
 
-To hear about how psychologists have over-hyped evidence of our irrationality, tweet @ChoiceEngine [HYPED](https://twitter.com/intent/tweet?text=@ChoiceEngine%20HYPED)
+To hear about how psychologists have over-hyped evidence of our irrationality, tweet @ChoiceEngine [HYPED](https://twitter.com/intent/tweet?text=@ChoiceEngine%20HYPED); direct link [hyped](hyped)
 
-To think about our natural intuitions about freewill [INTUITIONS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20INTUITIONS)
+To think about our natural intuitions about freewill [INTUITIONS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20INTUITIONS); direct link [intuitions](intuitions)
 
 &#9744; &#9744;
 

@@ -18,4 +18,4 @@ Things happen for a reason, but surely we are not mere things!
 
 You stumble upon a map
 
-To continue, tweet @ChoiceEngine [TAKE MAP](https://twitter.com/intent/tweet?text=@ChoiceEngine%20TAKE%20MAP)
+To continue, tweet @ChoiceEngine [TAKE MAP](https://twitter.com/intent/tweet?text=@ChoiceEngine%20TAKE%20MAP), or direct link [have-map](have-map)

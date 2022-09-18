@@ -8,4 +8,4 @@ The ChoiceEngine bot is a Ruby & Rack based application, running on Heroku with 
 
 &#9744; &#9744;
 
-For credits tweet @ChoiceEngine [CREDITS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CREDITS)
+For credits tweet @ChoiceEngine [CREDITS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CREDITS); direct link [credits](/.)

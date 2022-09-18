@@ -24,6 +24,6 @@ Victorian Science
 
 &#9744; &#9744;
 
-For credits tweet @ChoiceEngine [CREDITS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CREDITS)
+For credits tweet @ChoiceEngine [CREDITS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CREDITS); direct link [credits](/.)
 
-For technical information on how this project was built tweet @ChoiceEngine [COLOPHON](https://twitter.com/intent/tweet?text=@ChoiceEngine%20COLOPHON)
+For technical information on how this project was built tweet @ChoiceEngine [COLOPHON](https://twitter.com/intent/tweet?text=@ChoiceEngine%20COLOPHON); direct link [colophon](colophon)

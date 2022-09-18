@@ -1,40 +1,41 @@
 # Contents
 
+You can follow the map at the bottom, or read in this rough order. If you aren't seeing replies, you may have need this page: [teething](teething)
 
-1: [README](/choice-engine-text/)
+1: [dark-wood](dark-wood) - START HERE
 
-2: [causation](causation)
+2: [have-map](have-map)
 
-3: [chaos](chaos)
+3: [philosophers](philosophers)
 
-4: [close](close)
+4: [useless](useless)
 
-5: [colophon](colophon)
+5: [determinism](determinism)
 
-6: [complexity](complexity)
+6: [libet1](libet1)
 
-7: [dark-wood](dark-wood)
+7: [libet2](libet2)
 
-8: [determinism](determinism)
+8: [sphexishness](sphexishness)
 
-9: [expts](expts)
+9: [complexity](complexity)
 
-10: [have-map](have-map)
+10: [chaos](chaos)
 
-11: [hyped](hyped)
+11: [reasons](reasons)
 
 12: [intuitions](intuitions)
 
-13: [libet1](libet1)
+13: [causation](causation)
 
-14: [libet2](libet2)
+14: [expts](expts)
 
-15: [more](more)
+15: [hyped](hyped)
 
-16: [philosophers](philosophers)
+16: [close](close)
 
-17: [reasons](reasons)
+17: [more](more)
 
-18: [sphexishness](sphexishness)
+18: [colophon](colophon)
 
-19: [useless](useless)
+![](assets/CEgraph2.png)

@@ -28,7 +28,7 @@ Time and time again a psychology experiment which shows evidence of reasonablene
 
 &#9744; &#9744;
 
-Where this all takes us, tweet @ChoiceEngine [CLOSE](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CLOSE)
+Where this all takes us, tweet @ChoiceEngine [CLOSE](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CLOSE); direct link [close](close)
 
 &#9744; &#9744;
 

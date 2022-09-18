@@ -32,6 +32,6 @@ END
 
 &#9744; &#9744;
 
-To learn about who worked on this project, tweet @ChoiceEngine [CREDITS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CREDITS)
+To learn about who worked on this project, tweet @ChoiceEngine [CREDITS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CREDITS); direct link direct link [credits](/.)
 
-If you'd like links to further reading on these topics [READING](https://twitter.com/intent/tweet?text=@ChoiceEngine%20READING)
+If you'd like links to further reading on these topics [READING](https://twitter.com/intent/tweet?text=@ChoiceEngine%20READING); direct link [more](more)

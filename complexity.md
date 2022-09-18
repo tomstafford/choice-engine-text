@@ -28,5 +28,5 @@ Image credit: Made in Processing, modifying [code](https://pastebin.com/vyQ0fkxj
 
 &#9744; &#9744;
 
-Next up: what this means [CHAOS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CHAOS)
+Next up: what this means [CHAOS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CHAOS); direct link [chaos](chaos)
 

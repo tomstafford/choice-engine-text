@@ -8,9 +8,9 @@ Dennett also argues that you don't need indeterminism for personal responsibilit
 
 &#9744; &#9744;
 
-Tell me more about philosophy [MORE](https://twitter.com/intent/tweet?text=@ChoiceEngine%20MORE)
+Tell me more about philosophy [MORE](https://twitter.com/intent/tweet?text=@ChoiceEngine%20MORE); direct link [more](more)
 
-Doesn't neuroscience contradict freewill? [LIBET](https://twitter.com/intent/tweet?text=@ChoiceEngine%20LIBET)
+Doesn't neuroscience contradict freewill? [LIBET](https://twitter.com/intent/tweet?text=@ChoiceEngine%20LIBET); direct link [libet1](libet1)
 
 &#9744; &#9744;
 

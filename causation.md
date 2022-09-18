@@ -11,7 +11,7 @@ Yet our intuition about causation is to find a single cause. "Whose fault was th
 
 &#9744; &#9744;
 
-What happens when you tell people they are, or they aren't free: [EXPTS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20EXPTS)
+What happens when you tell people they are, or they aren't free: [EXPTS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20EXPTS); direct link [expts](expts)
 
-What this all means [CLOSE](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CLOSE)
+What this all means [CLOSE](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CLOSE); direct link [close](close)
 

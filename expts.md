@@ -12,6 +12,6 @@ My take on this is that this is a flaw in our intuitions about responsibility, n
 
 &#9744; &#9744;
 
-Causation isn't the same as responsibility [CAUSATION](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CAUSATION)
+Causation isn't the same as responsibility [CAUSATION](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CAUSATION); direct link [causation](causation)
 
-What this all adds up to [CLOSE](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CLOSE)
+What this all adds up to [CLOSE](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CLOSE); direct link [close](close)

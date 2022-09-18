@@ -28,9 +28,9 @@ When something affects your mind your brain is changed. Thoughts and feelings, a
 
 &#9744; &#9744;
 
-What happens when you tell people they are, or they aren't free: [EXPTS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20EXPTS)
+What happens when you tell people they are, or they aren't free: [EXPTS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20EXPTS); direct link [expts](expts)
 
-Why it matters how you think of the mind/brain [CAUSATION](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CAUSATION)
+Why it matters how you think of the mind/brain [CAUSATION](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CAUSATION); direct link [causation](causation)
 
 &#9744; &#9744;
 

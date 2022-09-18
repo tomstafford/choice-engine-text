@@ -39,11 +39,11 @@ We all share, to some degree, common but flawed intuitions that our minds are se
 
 &#9744; &#9744;
 
-To dive into why thinking of the brain as complex system gives even more reason to believe in a rich sense of free will: [COMPLEXITY](https://twitter.com/intent/tweet?text=@ChoiceEngine%20COMPLEXITY).
+To dive into why thinking of the brain as complex system gives even more reason to believe in a rich sense of free will: [COMPLEXITY](https://twitter.com/intent/tweet?text=@ChoiceEngine%20COMPLEXITY); direct link [complexity](complexity)
 
-To skip to evidence that reason, argument and evidence have real power to guide our choices:  [REASONS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20REASONS1).
+To skip to evidence that reason, argument and evidence have real power to guide our choices:  [REASONS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20REASONS1); direct link [reasons](reasons)
 
-If you'd like to hear some closing words, tweet @ChoiceEngine [CLOSE](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CLOSE)
+If you'd like to hear some closing words, tweet @ChoiceEngine [CLOSE](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CLOSE); direct link [close](close)
 
 &#9744; &#9744;
 

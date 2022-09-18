@@ -18,9 +18,9 @@ To illustrate what I'm getting at here, I'm going to tell you about a simple, co
 
 &#9744; &#9744;
 
-Tell me about cellular automata [RULE30](https://twitter.com/intent/tweet?text=@ChoiceEngine%20RULE%2030)
+Tell me about cellular automata [RULE30](https://twitter.com/intent/tweet?text=@ChoiceEngine%20RULE%2030); [complexity](complexity)
 
-Skip that, tell me what it means [CHAOS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CHAOS)
+Skip that, tell me what it means [CHAOS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CHAOS); direct link [reasons](reasons)
 
 &#9744; &#9744;
 

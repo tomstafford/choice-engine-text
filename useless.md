@@ -14,10 +14,10 @@ Let's go!
 
 &#9744; &#9744;
 
-More philosophy! [MORE](https://twitter.com/intent/tweet?text=@ChoiceEngine%20MORE)
+More philosophy! [MORE](https://twitter.com/intent/tweet?text=@ChoiceEngine%20MORE); direct link [determinism](determinism)
 
-Why determinism is compatible with freewill [NEXT](https://twitter.com/intent/tweet?text=@ChoiceEngine%20NEXT)
+Why determinism is compatible with freewill [NEXT](https://twitter.com/intent/tweet?text=@ChoiceEngine%20NEXT); direct link [sphexishness](sphexishness)
 
-Neuroscience and experiments on choice [CHOOSE](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CHOOSE)
+Neuroscience and experiments on choice [CHOOSE](https://twitter.com/intent/tweet?text=@ChoiceEngine%20CHOOSE); direct link [libet1](libet1)
 
-Having reasons for acting matters [REASONS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20REASONS)
+Having reasons for acting matters [REASONS](https://twitter.com/intent/tweet?text=@ChoiceEngine%20REASONS); direct link [reasons](reasons)
