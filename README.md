@@ -1,6 +1,10 @@
 # The Choice Engine
 
-To start, please follow @ChoiceEngine and tweet at it [START](https://twitter.com/intent/tweet?text=@ChoiceEngine%20START), before November 2022, or use this direct link [dark-wood](dark-wood)
+Choice Engine was a twitter bot which you could send messages to, in the style of a Choose Your Own Adventure / text-adventure, exploring an branching essay about the neuroscience, psychology and philosophy of freewill. 
+
+![](assets/ce.webp)
+
+Originally, you engaged with the project by following @ChoiceEngine on twitter and tweeting at it [START](https://twitter.com/intent/tweet?text=@ChoiceEngine%20START), before November 2022. Now you can use the table of contents below to read the essay text directly 
 
 &#9744; &#9744;
 
