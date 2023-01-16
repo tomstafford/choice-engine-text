@@ -6,6 +6,12 @@ Choice Engine was a twitter bot which you could send messages to, in the style o
 
 Originally, you engaged with the project by following @ChoiceEngine on twitter and tweeting at it [START](https://twitter.com/intent/tweet?text=@ChoiceEngine%20START), before November 2022. Now you can use the table of contents below to read the essay text directly 
 
+You may also like
+
+* the account at twitter.com [@choiceengine](https://twitter.com/ChoiceEngine)
+* An article about Choice Engine in New Scientist: ['The idea that we lack free will is built upon a mistaken sense of what it means to be a biological machine, argues psychologist Tom Stafford'](https://www.sciencedirect.com/science/article/pii/S0262407919306037)
+* 2018-09-03: [The blog post at mindhacks.com](https://mindhacks.com/2018/09/13/the-choice-engine/)
+
 &#9744; &#9744;
 
 # Complete table of contents
